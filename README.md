@@ -3,7 +3,7 @@
 
 ### 📌 About Me  
 - 🔥 Passionate about coding, problem-solving, and tech innovations.  
-- 🎥 Sharing knowledge on my **[YouTube Channel - Binary Baba](https://www.youtube.com/binary-baba)**  
+- 🎥 Sharing knowledge on my **[YouTube Channel - Binary Baba](https://www.youtube.com/@Binary-Baba)**  
 - 💻 Experienced in **JavaScript, Python, Node.js, React, Next.js, and more**  
 - 🔗 Helping developers on **Stack Overflow**  
 
